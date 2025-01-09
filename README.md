@@ -63,7 +63,7 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit09-sde&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amit-exe&theme=radical)
 
 ## ✨ Featured Projects
 
