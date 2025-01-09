@@ -58,8 +58,8 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit09-sde&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit09-sde&layout=compact&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-exe&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-exe&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
@@ -83,7 +83,7 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 ## 📈 Visitors
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Amit09-sde.Amit09-sde)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Amit-exe.Amit-exe)
 
 ## 📚 Certifications
 
